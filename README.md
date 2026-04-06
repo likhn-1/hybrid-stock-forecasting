@@ -1,6 +1,6 @@
 # Hybrid Stock Forecasting: Merging Market Signals with News Sentiment
- 
-**Drexel University** 
+
+**Team:**
 Likhita Nallapati | Shriya Rawal
 
  
