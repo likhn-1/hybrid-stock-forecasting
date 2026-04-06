@@ -84,11 +84,10 @@ This project explores how news sentiment affects Apple Inc.'s stock performance 
  
 | File | Description |
 |---|---|
-| `G16_ReadMe.ipynb` | Project summary, methodology, and results walkthrough |
-| `G16_EDA.ipynb` | Exploratory data analysis — trends, correlations, visualizations |
-| `G16_Preprocessing and Feature Engineering.ipynb` | Data cleaning, transformation, and technical feature engineering |
-| `G16_models.ipynb` | Model implementation, training, evaluation, and visualization |
-| `G16_Presentation.pdf` | Final project presentation |
+| `ReadMe.md` | Project summary, methodology, and results walkthrough |
+| `EDA` | Exploratory data analysis — trends, correlations, visualizations |
+| `Preprocessing and Feature Engineering` | Data cleaning, transformation, and technical feature engineering |
+| `models.ipynb` | Model implementation, training, evaluation, and visualization |
  
 **Datasets** (not included in repo due to size — see sources below):
 - `historical_data.csv` — Raw AAPL stock data from Yahoo Finance
